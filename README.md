@@ -1,6 +1,6 @@
 👋 Hi there! I’m **Angel** **Rusev**
 🎓 Third-Year Software Developer Student
-🔍 Looking for an internship in Back-End or Front-End Development
+🔍 Looking for an internship in Back-End/Full-Stack Development
 
 
 🚀 **About** **Me**
