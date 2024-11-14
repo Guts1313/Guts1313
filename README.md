@@ -11,7 +11,7 @@
 
 💼 **Let's** **Connect**
 🌐 LinkedIn – Let's build something great together! 
-www.linkedin.com/in/angel-rusev-a278bb270
+www.linkedin.com/in/angel-rusev
 
 
 <!---
