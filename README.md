@@ -17,13 +17,13 @@
 
 ### 👨‍💻 Tech Stack Expertise
 - **Languages & Frameworks:** Java, Spring Boot, C#, .NET, Kotlin, JavaScript, React
-- **Tools & Technologies:** Docker,GIT,GITLAB,Sonar
+- **Tools & Technologies:** Docker,GIT,GITLAB,Sonar,MySQL,MSSQL,Firebase,MongoDB,Amazon AWS
 
 ---
 
 ### 💼 Let's Connect
 - 🌐 **LinkedIn:** [Let's build something great together!](https://www.linkedin.com/in/angel-rusev)
-- 📧 **E-mail:** [Get in touch through my work email](angelrusev@icloud.com)
+- 📧 **E-mail:** [Get in touch through my work email]: angelrusev@icloud.com
 
 ---
 
