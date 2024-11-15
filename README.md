@@ -6,8 +6,7 @@
 🚀 **About** **Me**
 🌱 Currently Learning: Android Development, smart mobile technologies
 💻 Focus: Crafting clean, efficient code for mobile and web platforms
-💪 Hobbies: Working out, exploring fitness challenges and a huge movie fan! LOTR maniac :)
-🎬 Fun Fact: I’m a huge movie buff – always down for film recommendations!(No drama please)
+💪 Hobbies: Working out, exploring fitness challenges and a huge movie fan! Kinda LOTR maniac :)
 
 💼 **Let's** **Connect**
 🌐 LinkedIn – Let's build something great together! 
