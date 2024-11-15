@@ -8,6 +8,9 @@
 💻 Focus: Crafting clean, efficient code for mobile and web platforms
 💪 Hobbies: Working out, exploring fitness challenges and a huge movie fan! Kinda LOTR maniac :)
 
+👨‍💻**Tech stack expertise**
+-Java,Spring boot, C#, .NET ,Docker, React , JS, Kotlin 
+
 💼 **Let's** **Connect**
 🌐 LinkedIn – Let's build something great together! 
 www.linkedin.com/in/angel-rusev
