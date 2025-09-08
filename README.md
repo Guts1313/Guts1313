@@ -1,23 +1,23 @@
-### ℹ️ Introduction
+###  Introduction
 
 ---
 
-👋 Hi there! I’m **Angel Rusev**  
-🎓 Third-Year Software Developer Student  
-🔍 Looking for an internship in **Back-End**/**Full-Stack Development**
+👋 Hi there! My name is **Angel Rusev**  
+🎓 I am a final year Software Engineering Student at Fontys University -Eindhoven  
+🔍 I am open to interesting projects to work on as a freelancer or part-time positions in **Back-End**/**Full-Stack Development**
 
 ---
 
-### 🚀 About Me
+###  About Me
 - 🌱 **Currently exploring:** Android Development, Smart Mobile technologies
-- 💻 **Focused on:** Crafting clean, efficient code both for Mobile and Web platforms with different API integrations
-- 💪 **Hobbies:** Working out, exploring fitness challenges, and a huge movie fan! Kinda LOTR maniac :)
+- 💻 **Focused on:** Crafting clean, efficient code both for Mobile and Web platforms with different API, AI integrations based on request
+- 💪 **Hobbies:** Coding, Working out, exploring fitness challenges, and a huge movie fan! Kinda LOTR maniac :)
 
 ---
 
 ### 👨‍💻 Tech Stack Expertise
-- **Languages & Frameworks:** Java, Spring Boot, C#, .NET, Kotlin, JavaScript, React
-- **Tools & Technologies:** Docker,GIT,GITLAB,Sonar,MySQL,MSSQL,Firebase,MongoDB,Amazon AWS
+- **Languages & Frameworks:** Java, Spring Boot, C#, .NET, Kotlin, JavaScript, React, Python, Polars, Flask
+- **Tools & Technologies:** Docker,GIT,GITLAB,Sonar,MySQL,MSSQL,Firebase,MongoDB,DuckDB, Amazon AWS, RabbitMQ, Marshmallow 
 
 ---
 
