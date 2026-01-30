@@ -38,8 +38,8 @@ part-time positions in **Back-End**/**Full-Stack Development**/
 ---
 
 ### 👨‍💻 Tech Stack Expertise
-- **Languages & Frameworks:** Python | Java | Spring Boot | JavaScript | React | Python | Polars | Flask
-- **Tools & Technologies:** Docker | GIT | GITLAB | Sonarqube | MySQL | DuckDB | Amazon AWS | RabbitMQ | Marshmallow | Asyncio |  
+- **Languages & Frameworks:** Python | FastApi | Flask | React | JS | Tailwind
+- **Tools & Technologies:** Docker | Polars | GIT | GITLAB | Sonarqube | MySQL | DuckDB | Amazon AWS | RabbitMQ | Marshmallow | Asyncio |  Nginx | Grafana | Prometheus | Keycloak | Linux
 
 ---
 ### 👨‍💻 Recent project demos
